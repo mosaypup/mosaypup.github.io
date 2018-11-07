@@ -11,16 +11,3 @@ style.appendChild(document.createTextNode(css));
 }
 
 head.appendChild(style);
-
-
-
-.ht_plug_con.nt_mb_class {
-    width: 100%;
-    text-align: center;
-}
-
-
-.ht_plug_con.nt_mb_class [class*="wp-image-"], .ht_plug_con.nt_mb_class .ht_img, .ht_img_nt {
-    height: auto;
-    max-width: 100%;
-}
